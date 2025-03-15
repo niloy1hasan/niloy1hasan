@@ -63,5 +63,6 @@ I am always eager to collaborate, learn from others, and explore new challenges.
 ## Github Stats 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=niloy1hasan&theme=default&show_icons=true&hide_border=true&count_private=true" alt="niloy1hasan's GitHub Stats" />
+<br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy1hasan&theme=default&show_icons=true&hide_border=true&layout=compact" alt="niloy1hasan's GitHub Stats" />
 <br/>  
