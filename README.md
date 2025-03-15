@@ -51,7 +51,8 @@ I am always eager to collaborate, learn from others, and explore new challenges.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/niloy1hasan" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=niloy1hasan&theme=default&show_icons=true&hide_border=true&count_private=true" alt="niloy1hasan's GitHub Stats style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
 </a>  
 </div>  
   
@@ -61,7 +62,6 @@ I am always eager to collaborate, learn from others, and explore new challenges.
 
 ## Github Stats 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=NiloysWeblab&theme=default&hide_border=true" alt="NiloysWeblab's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=NiloysWeblab&theme=default&show_icons=true&hide_border=true&count_private=true" alt="NiloysWeblab's GitHub Stats" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=niloy1hasan&theme=default&show_icons=true&hide_border=true&count_private=true" alt="niloy1hasan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy1hasan&theme=default&show_icons=true&hide_border=true&layout=compact" alt="niloy1hasan's GitHub Stats" />
 <br/>  
