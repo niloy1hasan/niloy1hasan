@@ -50,8 +50,8 @@ I am always eager to collaborate, learn from others, and explore new challenges.
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/niloy1hasan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/NiloysWeblab" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/niloy1hasan" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=niloy1hasan&theme=default&show_icons=true&hide_border=true&count_private=true" alt="niloy1hasan's GitHub Stats style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
