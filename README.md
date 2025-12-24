@@ -17,10 +17,12 @@ I am always eager to collaborate, learn from others, and explore new challenges.
 **C | C++ | C# | JavaScript | Java | Python | PHP**
 ### Front-End
 **HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React**
+### Back-End
+**PHP | Node.js | Firebase Auth**
 ### Database
-**MySQL | SQLite**
+**MySQL | SQLite | MongoDB**
 ### Tools
-**Git | Microsoft Office (MS word, Excel, PowerPoint)**
+**Git | Linux | Microsoft Office (MS word, Excel, PowerPoint)**
 ### Design
 **Basic Graphics Design | UI/UX Design**
 ### Others
